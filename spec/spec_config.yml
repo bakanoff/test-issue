@@ -1,0 +1,19 @@
+banknotes:
+  500: 0
+  200: 0
+  100: 2
+  50: 1
+  20: 2
+  10: 4
+  5: 1
+  2: 0
+  1: 2
+accounts:
+  3321:
+    name: 'Volodymyr'
+    password: '$2a$10$WqhESmBCl4Pcc2o9KSkzruY9rySFpGfyZLCig3pjgpkVppDqHw2qq'
+    balance: 422
+  5922:
+    name: 'Iryna'
+    password: '$2a$10$IWR143Qa7BxZXXAosUHcT.TMUOR2FBKnRIQWM9h.lv1UShK0uQkKa'
+    balance: 5301
